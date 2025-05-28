@@ -1,2 +1,6 @@
 # Airbnb Listings and Pricing NYC
  Data Visualization Project Using Tableau
+
+This interactive dashboard analyzes Airbnb listings in New York City, offering insights into how price, location, room type, and number of bedrooms influence rental trends. The visualization reveals that Manhattan has the highest average nightly price ($325.70), while boroughs like the Bronx and Staten Island offer more affordable options (~$125). Entire home/apartment listings are the most common, followed by private rooms, highlighting guest preferences for privacy. One-bedroom listings dominate the market, and while larger listings (3+ bedrooms) are rare, they command significantly higher average prices, suggesting potential for higher returns in underserved niches. From an investor’s perspective, this dashboard helps answer critical questions such as: “Which borough maximizes nightly revenue?”, “What types of listings are most in demand?”, and “Is there an opportunity in larger, less saturated property segments?” These insights support strategic decisions around pricing, property type, and location for maximizing ROI in the NYC short-term rental market.
+
+Datasets was taken from https://insideairbnb.com/get-the-data/ 
